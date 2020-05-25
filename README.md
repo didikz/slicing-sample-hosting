@@ -1,5 +1,7 @@
 ## About
 
+![preview](https://github.com/didikz/slicing-sample-hosting/blob/master/preview.png)
+
 As a backend engineer, I am interested with Utility-First of Tailwind CSS. This make me gain more understanding about building a web page with simple setup without write bunch of CSS script.
 
 Here we go as a result, I've built a simple homepage of Hosting Service based on design [BeServer - Landing Page](https://dribbble.com/shots/9951239%E2%81%A0) from [Muh Salmon](https://dribbble.com/muhsalmon). Used stacks are:
